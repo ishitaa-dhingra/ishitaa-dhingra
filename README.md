@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋<br>I'm Ishitaa Dhingra 😊<br><br>- 🔭 I’m a prefinal year student pursuing a btech in computer science...<br><br>- 📚 At this very moment, I'm wholeheartedly delving into the  captivating wonders of web development....<br><br>- ⚡As a relentless knowledge seeker, my free time becomes a playground for exploring uncharted territories of learning. 🚀 And amidst this journey, I find solace in the embrace of sleep and listening music, rejuvenating my mind to conquer new horizons..</h2>
+<h5 align="left">Hi👋<br>I'm Ishitaa Dhingra 😊<br><br>- 🔭 I’m a prefinal year student pursuing a btech in computer science...<br><br>- 📚 At this very moment, I'm wholeheartedly delving into the  captivating wonders of web development....<br><br>- ⚡As a relentless knowledge seeker, my free time becomes a playground for exploring uncharted territories of learning. 🚀 And amidst this journey, I find solace in the embrace of sleep and listening music, rejuvenating my mind to conquer new horizons..</h5>
 
 ###
 
