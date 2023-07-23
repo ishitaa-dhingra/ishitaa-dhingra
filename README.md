@@ -40,7 +40,11 @@
   <a href="https://www.linkedin.com/in/ishitaa-dhingra/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  
+  <br>
+  <br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitaa-dhingra&label=Profile%20views&color=0e75b6&style=flat" alt="ishitaa-dhingra" /> </p>
+
+</p>
 </div>
 
 ###
