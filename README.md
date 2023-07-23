@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="350" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
+<img align="right" height="450" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
 
 ###
 
@@ -47,6 +47,8 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitaa-dhingra&label=Profile%20views&color=0e75b6&style=flat" alt="ishitaa-dhingra" /> </p>
 
 </p>
+<td valign="top"><img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaa-dhingra&layout=compact&theme=radical&custom_title=Languages"/></td>
+</tr>
 </div>
 
 ###
