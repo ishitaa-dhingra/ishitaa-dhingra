@@ -1,12 +1,14 @@
 <h4 align="left">Hi👋<br>I'm Ishitaa Dhingra 😊<br><br>- 🔭 I’m a prefinal year student pursuing a btech in computer science...<br><br>- 📚 At this very moment, I'm wholeheartedly delving into the  captivating wonders of web development....<br><br>- ⚡As a relentless knowledge seeker, my free time becomes a playground for exploring uncharted territories of learning. 🚀 And amidst this journey, I find solace in the embrace of sleep and listening music, rejuvenating my mind to conquer new horizons..</h4>
 
+
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
+<img align="right" height="350" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
 
 ###
 
 <div align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="65" alt="cplusplus logo"  />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5 logo"  />
