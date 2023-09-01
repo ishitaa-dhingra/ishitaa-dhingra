@@ -62,7 +62,7 @@
  
 
 </p>
-<td valign="top"><img height="110" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishitaa-dhingra&layout=compact&theme=radical&custom_title=Languages"/></td>
+
 </tr>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitaa-dhingra&label=Profile%20views&color=0e75b6&style=flat" alt="ishitaa-dhingra" /> </p>
 </div>
