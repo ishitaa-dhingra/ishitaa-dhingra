@@ -66,5 +66,11 @@
 </tr>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitaa-dhingra&label=Profile%20views&color=0e75b6&style=flat" alt="ishitaa-dhingra" /> </p>
 </div>
+<div>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaa-dhingra&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaa-dhingra&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 ###
