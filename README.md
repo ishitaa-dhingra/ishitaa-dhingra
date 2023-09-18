@@ -8,9 +8,10 @@
 
 ###
 
-<img align="right" height="400" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
+<img align="right" height="500" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
 
 ###
+## 🧰 Languages and Tools:
 
 <div align="left">
   
@@ -44,7 +45,7 @@
 </div>
 
 ###
-
+## :email: Find me on:
 <div align="left">
    <a href="https://www.linkedin.com/in/ishitaa-dhingra/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
