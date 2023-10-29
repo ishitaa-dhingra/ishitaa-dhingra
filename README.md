@@ -45,7 +45,11 @@
   
   <img width="21" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+<img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" alt="tailwindcss logo"  />
+</div>
 
+###
 </div>
 
 ###
