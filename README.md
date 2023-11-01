@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="500" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
+<img align="right" height="400" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
 
 ###
 ## 🧰 Languages and Tools:
