@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="400" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
+<img align="right" height="300" src="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png"  />
 
 ###
 ## 🧰 Languages and Tools:
@@ -46,6 +46,11 @@
   
   <img width="21" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+ <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+
+
+###
 
 </div>
 
