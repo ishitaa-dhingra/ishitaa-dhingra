@@ -1,4 +1,22 @@
-<h2 align="center">
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: jasineri/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: ishitaa-dhingra
+            # Text on contribution graph 
+            text: ISHITAA
+       - uses: jasineri/simple-push-action@v1
+       <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ishitaa+Dhingra....;Nice+to+meet+you!&center=true&size=30">
   </a>
