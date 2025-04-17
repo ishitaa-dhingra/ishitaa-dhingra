@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ishitaa+Dhingra....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h2>
-- 🔭 I’m a prefinal year student pursuing a btech in computer science...<br><br>
+- 🔭 I’m a final year student pursuing a btech in computer science...<br><br>
 - 📚 At this very moment, I'm wholeheartedly delving into the  captivating wonders of web development....<br><br>
 - ⚡As a relentless knowledge seeker, my free time becomes a playground for exploring uncharted territories of learning.  
    🚀 And amidst this journey, I find solace in the embrace of sleep and listening music, rejuvenating my mind to conquer 
